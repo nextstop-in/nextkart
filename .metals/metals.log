@@ -1,3 +1,9 @@
 2020.05.07 19:42:47 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\kumar.sanu\Desktop\React Preparation\nextkart'
 2020.05.07 19:42:48 INFO  time: initialize in 1.11s
 2020.05.07 19:42:51 WARN  no build tool detected in workspace 'C:\Users\kumar.sanu\Desktop\React Preparation\nextkart'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.13 12:02:45 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\kumar.sanu\Desktop\React Preparation\nextkart'
+2020.05.13 12:02:46 INFO  time: initialize in 1.51s
+2020.05.13 12:02:54 WARN  no build tool detected in workspace 'C:\Users\kumar.sanu\Desktop\React Preparation\nextkart'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.17 12:05:21 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\kumar.sanu\Desktop\React Preparation\nextkart'
+2020.05.17 12:05:23 INFO  time: initialize in 2.13s
+2020.05.17 12:05:31 WARN  no build tool detected in workspace 'C:\Users\kumar.sanu\Desktop\React Preparation\nextkart'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
